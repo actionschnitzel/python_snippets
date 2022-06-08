@@ -1,2 +1,2 @@
 # python_snippets
-Collection Python + Tkinter Snippets
+Collection of Python + Tkinter Snippets
